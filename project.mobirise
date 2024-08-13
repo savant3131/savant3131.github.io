@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Обслуживание жилых домов",
+    "name": "Mantenimiento de edificios residenciales",
     "currentPage": "index.html",
     "ai": {
       "imageSearchQuery": "homes"
@@ -267,7 +267,16 @@
     "uniqCompNum": 6,
     "imageResize": true,
     "publishChangesOnly": true,
-    "publishEditFolder": true
+    "publishEditFolder": true,
+    "favicon": false,
+    "mbrsiteDomain": "cpoyid9qpu",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
