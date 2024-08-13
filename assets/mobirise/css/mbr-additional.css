@@ -32,11 +32,11 @@ body {
 }
 .display-2 {
   font-family: 'Golos Text', sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5rem;
+  font-size: 6.25rem;
 }
 .display-4 {
   font-family: 'Golos Text', sans-serif;
@@ -79,9 +79,9 @@ body {
     line-height: calc( 1.1 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -106,9 +106,9 @@ body {
     line-height: calc( 1.1 * (1.98rem + (3.8 - 1.98) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (2.05rem + (4 - 2.05) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -903,7 +903,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(204, 190, 190, 0.8) !important;
+  background: rgba(204, 190, 190, 0.5) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -945,7 +945,7 @@ a {
   transition: 0.3s all !important;
   min-width: auto;
   background: #ccbebe;
-  background: rgba(204, 190, 190, 0.8) !important;
+  background: rgba(204, 190, 190, 0.5) !important;
 }
 .cid-ulfqjd8600 .nav-item:focus,
 .cid-ulfqjd8600 .nav-link:focus {
@@ -1010,7 +1010,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ulfqjd8600 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.3rem);
+    max-height: calc(98.5vh - 4.4rem);
   }
 }
 .cid-ulfqjd8600 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1275,8 +1275,8 @@ a {
     border-radius: 1.5rem;
     background: #ccbebe;
     opacity: 1;
-    border-color: rgba(204, 190, 190, 0.8) !important;
-    background: rgba(204, 190, 190, 0.8) !important;
+    border-color: rgba(204, 190, 190, 0.5) !important;
+    background: rgba(204, 190, 190, 0.5) !important;
     backdrop-filter: blur(8px);
   }
   .cid-ulfqjd8600 .navbar-nav .nav-item .nav-link::after {
