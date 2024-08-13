@@ -273,8 +273,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Услуги по обслуживанию",
-        "meta_descr": "Наша компания предлагает профессиональное обслуживание жилых домов, включая уборку, ремонт и техническое обслуживание. Мы заботимся о вашем комфорте и безопасности.",
+        "title": "Mantenimiento del hogar",
+        "meta_descr": "Nuestra empresa ofrece servicios residenciales profesionales, que incluyen limpieza, reparaciones y mantenimiento. Nos preocupamos por tu comodidad y seguridad.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
